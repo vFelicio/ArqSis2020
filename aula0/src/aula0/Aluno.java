@@ -74,4 +74,5 @@ public class Aluno{
 
    
 	}
->>>>>>> a898a62 versão 2.0
+>>>>>>> a898a62 versão 4.2
+
