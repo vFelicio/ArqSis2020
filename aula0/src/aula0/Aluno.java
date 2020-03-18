@@ -1,3 +1,4 @@
+<<<<<<< Upstream, based on aula0/master
 package aula0;
 
 public class Aluno {
@@ -28,3 +29,26 @@ public class Aluno {
 	
     	
 }
+=======
+package aula0;
+
+public class Aluno{
+	
+	   private String nome;
+	   private int id;
+	   
+	   public Aluno () {
+	   }
+	   
+	   public String getNome() {
+		   return nome;
+	   }
+	   
+	   public int getId() {
+		   return id;
+	   }
+
+
+	   
+	}
+>>>>>>> 7ddcdbb Versão 2
