@@ -5,9 +5,9 @@ public class Aluno {
 	private String nome;
 	private int id;
 	
-	public Aluno(String nome, int id) {
-		this.nome = nome;
-		this.id = id;
+	public Aluno(String Nome, int Id) {
+		nome = Nome;
+		id = Id;
 	}
 
 	public String getNome() {
